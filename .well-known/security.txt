@@ -1,0 +1,5 @@
+Contact: mailto:pramanstudy@gmail.com
+Canonical: https://pramanstudyabroad.edu.np/.well-known/security.txt
+Policy: https://pramanstudyabroad.edu.np/privacy.html
+Preferred-Languages: en, ne
+Expires: 2027-09-09T00:00:00Z

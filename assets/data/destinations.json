@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "france",
+    "name": "France",
+    "currency": "EUR",
+    "source": "Campus France",
+    "url": "https://www.campusfrance.org/en"
+  },
+  {
+    "slug": "germany",
+    "name": "Germany",
+    "currency": "EUR",
+    "source": "Study in Germany",
+    "url": "https://www.study-in-germany.com/en/"
+  },
+  {
+    "slug": "spain",
+    "name": "Spain",
+    "currency": "EUR",
+    "source": "Study in Spain",
+    "url": "https://www.studyinspain.info/"
+  },
+  {
+    "slug": "usa",
+    "name": "USA",
+    "currency": "USD",
+    "source": "U.S. Department of State",
+    "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+  },
+  {
+    "slug": "australia",
+    "name": "Australia",
+    "currency": "AUD",
+    "source": "Australian Home Affairs",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500"
+  },
+  {
+    "slug": "finland",
+    "name": "Finland",
+    "currency": "EUR",
+    "source": "Study in Finland",
+    "url": "https://www.studyinfinland.fi/"
+  },
+  {
+    "slug": "sweden",
+    "name": "Sweden",
+    "currency": "SEK",
+    "source": "Study in Sweden",
+    "url": "https://studyinsweden.se/"
+  },
+  {
+    "slug": "new-zealand",
+    "name": "New Zealand",
+    "currency": "NZD",
+    "source": "Immigration New Zealand",
+    "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/"
+  },
+  {
+    "slug": "uk",
+    "name": "United Kingdom",
+    "currency": "GBP",
+    "source": "GOV.UK",
+    "url": "https://www.gov.uk/student-visa/documents-you-must-provide"
+  },
+  {
+    "slug": "europe",
+    "name": "Europe",
+    "currency": "Varies",
+    "source": "Study in Europe",
+    "url": "https://education.ec.europa.eu/study-in-europe"
+  }
+]
